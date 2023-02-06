@@ -1,6 +1,6 @@
 # Calculadora
 
-![preview](./.github/preivew.png)
+![preview](calculadora-javascript-/.github/preview.png)
 
 > Primeiro Passos no JavaScript
 
