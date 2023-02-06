@@ -1,0 +1,19 @@
+# Calculadora
+
+![preview](./.github/preivew.png)
+
+> Primeiro Passos no JavaScript
+
+Projeto construido para uma serie de projetos com javaScript
+[ 🔗 Clique aqui para acessar](https://luca-srd.github.io/calculadora-javascript-/)
+
+## 👨‍💻 Tecnologias
+
+- HTML
+- CSS
+  -JavaScript
+- Git e Github
+
+## ❤ Contato
+
+lucas.ribeiro012@hotmail.com
