@@ -5,7 +5,7 @@
 > Primeiro Passos no JavaScript
 
 Projeto construido para uma serie de projetos com javaScript
-[ 🔗 Clique aqui para acessar](https://luca-srd.github.io/calculadora-javascript-/)
+[ 🔗 Clique aqui para acessar]([https://lucarib.github.io/calculadora-javascript-/))
 
 ## 👨‍💻 Tecnologias
 
